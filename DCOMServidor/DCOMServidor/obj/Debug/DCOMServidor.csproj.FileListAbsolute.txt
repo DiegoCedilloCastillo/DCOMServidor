@@ -1,0 +1,7 @@
+C:\Users\TEMP.MSI.002\source\repos\DCOMServidor\DCOMServidor\bin\Debug\DCOMServidor.dll
+C:\Users\TEMP.MSI.002\source\repos\DCOMServidor\DCOMServidor\bin\Debug\DCOMServidor.pdb
+C:\Users\TEMP.MSI.002\source\repos\DCOMServidor\DCOMServidor\bin\Debug\DCOMServidor.tlb
+C:\Users\TEMP.MSI.002\source\repos\DCOMServidor\DCOMServidor\obj\Debug\DCOMServidor.csproj.AssemblyReference.cache
+C:\Users\TEMP.MSI.002\source\repos\DCOMServidor\DCOMServidor\obj\Debug\DCOMServidor.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.MSI.002\source\repos\DCOMServidor\DCOMServidor\obj\Debug\DCOMServidor.dll
+C:\Users\TEMP.MSI.002\source\repos\DCOMServidor\DCOMServidor\obj\Debug\DCOMServidor.pdb
